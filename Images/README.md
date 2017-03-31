@@ -8,3 +8,4 @@
 * [Google car construction.png](https://www.youtube.com/watch?v=dk3oc1Hr62g)
 * [Phantom auto demonstration.png](https://link.springer.com/chapter/10.1007/978-3-662-48847-8_3/fulltext.html)
 * [Early traffic jam.png](http://www.detroitnews.com/story/news/local/michigan-history/2015/04/26/auto-traffic-history-detroit/26312107/#)
+* [RCA Labs self driving car.png](http://www.oldcarbrochures.com/static/NA/GM%20Corporate%20and%20Concepts/1956_GM_Firebird_II/1956%20Firebird%20II-12-13.html)
